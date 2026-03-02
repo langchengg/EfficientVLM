@@ -162,7 +162,7 @@ This project aligns with edge-device AI efficiency research, drawing inspiration
 ```bibtex
 @misc{efficientvlm2026,
   title={EfficientVLM: Adaptive Visual Token Pruning for Edge Devices},
-  author={Your Name},
+  author={Lang Cheng},
   year={2026},
   url={https://github.com/langchengg/EfficientVLM}
 }
